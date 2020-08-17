@@ -1,2 +1,2 @@
-# CS Problem Solving
+# Comptetitive Programming
 This repository has the solutions with source code to some basic CS questions I encounter in competitive programming websites.
