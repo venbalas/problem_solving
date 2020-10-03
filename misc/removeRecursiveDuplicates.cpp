@@ -4,7 +4,6 @@
 
 bool removeDupllicates(std::string &input)
 {
-
     bool string_modified = false;
 
     if (input.size() <= 1)
@@ -17,11 +16,9 @@ bool removeDupllicates(std::string &input)
 
     while (index < input.size() - 1)
     {
-
         // Check current and next char
         if (input[index] != input[index + 1])
         {
-
             // Check if this was not the last repeating char
             if (input[index] != repeating_char)
             {
